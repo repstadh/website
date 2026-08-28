@@ -16,5 +16,7 @@ body {
 
   background-size: 30px 30px, 90px 90px;
   background-position: 0 0;
+  width: 80%;
+  margin:  auto;
 }
 #meg {text-align: center;}
