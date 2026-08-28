@@ -13,3 +13,7 @@ background-size:100px 100px, 100px 100px, 50px 50px, 50px 50px;
 #hoved {
   background-color: rgb(240, 237, 234);
   text-align: center;}
+#sub {
+  text-align: center;
+  padding: 100px;
+}
