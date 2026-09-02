@@ -9,11 +9,13 @@ background-size:100px 100px, 100px 100px, 50px 50px, 50px 50px;
   width: 90%;
   margin:  auto;
 }
-#meg {text-align: center;}
+#meg {text-align: center;
+        }
 #hoved {
   background-color: rgb(240, 237, 234);
-  text-align: center;}
+  text-align: center;
+  padding: 40px;}
 #sub {
   text-align: center;
-  padding: 100px;
+  padding: 40px;
 }
